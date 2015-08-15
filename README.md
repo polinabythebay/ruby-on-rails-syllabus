@@ -1,0 +1,1 @@
+This is a syllabus for a self-taught course I created for myself to learn Ruby on Rails. Feel free to take inspiration from it and implement your own courses.
